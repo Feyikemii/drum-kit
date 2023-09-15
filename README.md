@@ -1,2 +1,2 @@
 A drum kit using Javascript.
-view here
+click <a href = "https://feyikemii.github.io/drum-kit/">here</a> to view 
